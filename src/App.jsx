@@ -1,7 +1,7 @@
 import "./App.css";
 
 import Navbar from "./assets/component/Navbar";
-import Hero from "./assets/component/Hero";
+import Hero from "./assets/component/hero";
 import About from "./assets/component/About";
 import Skills from "./assets/component/Skills";
 import Project from "./assets/component/Project";

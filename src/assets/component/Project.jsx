@@ -14,6 +14,20 @@ function Project() {
       technologies: "HTML, CSS, JavaScript",
       github: "https://github.com/kritubohra22/Social-Spark",
     },
+    {
+      title: "Landmark Restaurant",
+      description:
+        "A responsive restaurant website where customers can explore food items, add products to cart and place orders. Includes a restaurant admin panel.",
+      technologies: "HTML, CSS, JavaScript,Firebase",
+      github: "YOUR_LANDMARK_GITHUB_LINK",
+    },
+    {
+      title: "The Indiani Way",
+      description:
+        "A restaurant website with an admin panel for managing products and uploading product images using Firebase.",
+      technologies: "HTML, CSS, JavaScript, Firebase",
+      github: "YOUR_INDIANI_WAY_GITHUB_LINK",
+    },
   ];
 
   return (
@@ -54,4 +68,3 @@ function Project() {
 }
 
 export default Project;
-
